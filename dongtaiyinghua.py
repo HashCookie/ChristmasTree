@@ -3,7 +3,7 @@ import random
 import time
 
 
-# 画樱花的躯干(60,t)
+# 画樱花的躯干(60,t)hhhhhhhh
 def Tree(branch, t):
     time.sleep(0.0005)
     if branch > 3:
